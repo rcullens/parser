@@ -1,0 +1,6 @@
+[project]
+name = "asset-dashboard"
+version = "0.1.0"
+description = "Parse and ingest asset endpoints into SQLite"
+requires-python = ">=3.10"
+readme = "README.md"

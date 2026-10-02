@@ -1,0 +1,5 @@
+# One asset endpoint per line. Comments and blank lines are ignored.
+https://www.example.com/about
+https://app.example.com/admin
+https://api.example.com/v2
+inventory.example.com
